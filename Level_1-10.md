@@ -1,5 +1,5 @@
 # Solutions for level 1 to 5 (2025-11-09)
-## ⚠️ The methods I used aren't always the best or the most efficient or the only option. and there will be spoilers for the game.
+## ⚠️ The methods I used aren't always the best or the most efficient or the only option. and there will be spoilers for the game. And sorry for typo mistakes
 
 ## Level 0 -> 1
 Process : The password is in the file /home/bandit0/readme and can be seen by ``cat`` command.
